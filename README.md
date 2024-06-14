@@ -1,6 +1,8 @@
 # IndexNumR
 Index Number Calculation For Tornqvist index Use IndexNumR With (In) R Software
 
+https://www.youtube.com/watch?v=wenC2vehPwU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
